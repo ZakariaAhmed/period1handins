@@ -10,7 +10,7 @@
  it is a better way of writing javascript code, it supports type definitions, and you can compile it into javascript ES5 and run it on the browsers. with the goals of ES6 which has been adopted by Node, we see differences in how to write a function, the arrow functions got introduced etc. 
  
  - node.js make sense when you wanna build a javascript almost sort of compiled version of it, complete with its own server, listening on port 3000 for example. node.js is a javascript runtime environment that is very fast, you can use it both as a server and desktop applications. its main feature is that it takes a non-blocking approach to serving requests.
- <img src="https://mdn.mozillademos.org/files/4617/default.svg">
+ - <img src="https://mdn.mozillademos.org/files/4617/default.svg">
  - The event loop in node.js, can be esaily explained 
  while (queue.waitForMessage()) {
   queue.processNextMessage();
