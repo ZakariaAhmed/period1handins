@@ -11,6 +11,7 @@
  
  - node.js make sense when you wanna build a javascript almost sort of compiled version of it, complete with its own server, listening on port 3000 for example. node.js is a javascript runtime environment that is very fast, you can use it both as a server and desktop applications. its main feature is that it takes a non-blocking approach to serving requests.
  - <img src="https://mdn.mozillademos.org/files/4617/default.svg">
+ - <img src="https://edusom.co/uploads/EventLoop.PNG">
  - The event loop in node.js, can be esaily explained 
  while (queue.waitForMessage()) {
   queue.processNextMessage();
